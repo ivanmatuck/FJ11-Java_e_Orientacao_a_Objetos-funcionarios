@@ -1,1 +1,1 @@
-"# FJ11-funcionarios" 
+Atividades não obrigatórias, que fiz durante o curso FJ11, da Caelum. Os exercicícios se se resumiam a criar um sistema bancário, mas desenvolvi o de sistema de gestão de funcionários paralelamente, para fixação do apreendizado.
